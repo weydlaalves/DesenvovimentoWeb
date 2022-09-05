@@ -1,0 +1,84 @@
+
+nav a {
+    color:rgb(15, 20, 25);
+    text-decoration: none;
+    
+}
+nav a:hover{
+    background-color:rgba(15, 25, 20, 0.1);
+    border-radius: 20px;
+    
+}
+
+body a{
+    color: rgb(15,20,25);
+    
+    
+
+}
+#estatistica a{
+    color: rgb(83, 100, 113);
+    text-decoration: none;
+
+    
+}
+#estatistica a:hover{
+    text-decoration:underline;
+    
+}
+#acoes #reply a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+#acoes #reply a:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(29, 155, 240, 1);
+    border-radius: 10px;
+}
+#acoes #share a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+#acoes #share a:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(29, 155, 240, 1);
+    border-radius: 10px;
+}
+#acoes #reetzet a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+#acoes #reetzet a:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(0, 186, 124, 1);
+    border-radius: 10px;
+}
+#acoes #like a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+#acoes #like a:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(249, 24, 128, 1);
+    border-radius: 10px;
+}
+#reetzet-post{
+    color:rgb(15, 20, 25);
+    
+}
+#reetzet-post a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+#reetzet-post :hover{
+    background-color: rgba(0, 0, 0, 0.03);
+}
+#post{
+    color: rgb(15, 20, 25)
+}
+#post a{
+    color:rgb(83, 100, 113);
+    text-decoration: none;
+}
+ 
+ 
